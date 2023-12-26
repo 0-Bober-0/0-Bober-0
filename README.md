@@ -1,14 +1,14 @@
+
+
 # Hi there, I'm [Alexandr](https://t.me/RaleUxanSdrT) ![](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif) 
-### Student of RTU MIREA, Software Engineering
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&lines=Java+and+Android+developer)](https://git.io/typing-svg)
 <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://vk.com/e_x_o_r_p">
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="VK Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://t.me/RaleUxanSdrT">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
+
+### Student of RTU MIREA, Software Engineering
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&lines=Java+and+Android+developer)](https://git.io/typing-svg)
