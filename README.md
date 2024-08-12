@@ -7,6 +7,9 @@
   <a href="https://t.me/mladshiy_lovesstik">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
+      <a href="https://drive.google.com/file/d/1ySibLhxWFQGA_sXbrVne6eeRQzQlZUoy/view?usp=sharing" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
     <h1>
   Hi, my name is Alexander and I am a Java and Android developer
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
