@@ -54,4 +54,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-Sas&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ali-Sas.Ali-Sas">
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Ali-Sas.Ali-Sas">
