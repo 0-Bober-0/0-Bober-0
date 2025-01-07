@@ -50,8 +50,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Sas&hide=powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"  width="38%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-Sas&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0-Bober-0&hide=powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"  width="38%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0-Bober-0&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Ali-Sas.Ali-Sas">
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=0-Bober-0.0-Bober-0">
