@@ -14,7 +14,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📫 How to reach me: <a href="https://t.me/ITsshechka">ITsshechka</a>
+  📫 How to reach me: <a href="https://t.me/ITsshechka">Telegram</a>
 </p>
 
 <hr>
