@@ -54,3 +54,9 @@
 </p>
 
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=0-Bober-0.0-Bober-0">
+
+---
+
+### ✨ **Do you want to get acquainted? Write me** ✨
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
